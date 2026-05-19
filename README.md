@@ -1,4 +1,4 @@
-# Dulce Camille - Sistema Contable, de Facturación e Inventario 🌸
+# Sistema Contable, de Facturación e Inventario 🌸
 
 ¡Bienvenido al repositorio oficial de **Sistema contable e inventariado**! Esta es una aplicación móvil desarrollada en **Flutter** diseñada para gestionar el flujo contable, el control de inventario de prendas y la emisión de facturas de manera eficiente, rápida y segura.
 
